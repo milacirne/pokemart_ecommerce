@@ -39,7 +39,7 @@ const products: Product[] = [
     id: 4,
     title: 'The Electric Tale of Pikachu Comic',
     description:
-      'Join Ash and Pikachu on their epic journey through the Pokémon universe, encountering friends, foes, and unforgettable adventures along the way. With stunning artwork and engaging storytelling, this comic series is a timeless treasure for Pokémon enthusiasts.',
+      'Join Ash and Pikachu on their epic journey through the Pokémon universe, encountering friends, foes, and unforgettable adventures along the way. With stunning artwork and engaging storytelling, this comic series is a timeless treasure.',
     image: talePikachu,
     tags: ['20% DISCOUNT', '38,00€']
   },
@@ -47,7 +47,7 @@ const products: Product[] = [
     id: 5,
     title: 'Pokémon Adventures: Gold & Silver Collection',
     description:
-      'Follow Gold, Silver, and their Pokémon companions on a journey filled with exciting challenges. This manga series offers a captivating blend of adventure, humor, and heartwarming moments that will keep readers hooked from start to finish.',
+      'Follow Gold, Silver, and their Pokémon companions on a journey filled with exciting challenges. This manga series offers a captivating blend of adventure, humor, and heartwarming moments that will keep readers hooked.',
     image: goldSilverAdventures,
     tags: ['15% DISCOUNT', '55,00€']
   },

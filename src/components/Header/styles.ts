@@ -25,7 +25,7 @@ export const Logo = styled.img`
 
 export const Cart = styled.div`
   position: absolute;
-  right: 104px;
+  right: 88px;
   top: 64px;
   cursor: pointer;
 `

@@ -22,7 +22,7 @@ const products: Product[] = [
   {
     id: 2,
     title: 'Eevee Backpack',
-    description: "A stylish backpack adorned with Eevee's cute face and tail",
+    description: "A stylish backpack adorned with Eevee's cute face and tail.",
     image: eeveeBackpack,
     tags: ['10% DISCOUNT', '60,00€']
   },
@@ -30,7 +30,7 @@ const products: Product[] = [
     id: 3,
     title: 'Pokéball Cap',
     description:
-      'A baseball cap designed to resemble a Pokeball, perfect for any Pokémon Trainer',
+      'A cap designed to resemble a Pokeball, perfect for any Pokémon Trainer',
     image: pokeballCap,
     tags: ['15% DISCOUNT', '20,00€']
   },
@@ -45,8 +45,7 @@ const products: Product[] = [
   {
     id: 5,
     title: 'Pack of 5 pairs of Pokémon sockets',
-    description:
-      'Comfortable socks with fun Pokémon design, ideal for showing off your favorite Pokémon.',
+    description: 'Comfortable socks with your favorite Pokémon design.',
     image: pokemonSockets,
     tags: ['15% DISCOUNT', '25,00€']
   },
@@ -54,7 +53,7 @@ const products: Product[] = [
     id: 6,
     title: 'Pokémon Underpants',
     description:
-      'A graphic T-shirt featuring your favorite Pokémon, ideal for fans looking to showcase their love for the iconic franchise.',
+      'A graphic T-shirt featuring your favorite Pokémon, ideal for fans looking to showcase their love for them.',
     image: pokemonUnderpants,
     tags: ['15% DISCOUNT', '10,00€']
   }

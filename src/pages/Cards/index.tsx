@@ -39,7 +39,7 @@ const products: Product[] = [
     id: 4,
     title: 'Evolving Skies Build & Battle Box',
     description:
-      'Elevate your game with Pokémon TCG: Evolving Skies Build & Battle Box, packed with powerful cards for intense matches.',
+      "Elevate your game with the Pokémon TCG: Evolving Skies Build & Battle Box. Packed with powerful cards, it's perfect for intense matches.",
     image: evolvingSkies,
     tags: ['5% DISCOUNT', '100,00€']
   },

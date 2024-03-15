@@ -3,7 +3,7 @@ import { colors } from '../../styles'
 
 export const Container = styled.div`
   background-color: ${colors.lightRed};
-  padding: 48px 104px 80px;
+  padding: 48px 88px 80px;
 `
 
 export const List = styled.ul`

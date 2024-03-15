@@ -23,7 +23,7 @@ const products: Product[] = [
     id: 2,
     title: 'Eevee Mug',
     description:
-      'Enhance your morning ritual with the adorable charm of this Eevee mug. Emblazoned with a delightful Eevee design, it brings a touch of Pokémon magic to your daily coffee or tea indulgence.',
+      'Enhance your morning ritual with the adorable charm of this Eevee mug. Emblazoned with a delightful Eevee design, it brings a touch of Pokémon magic.',
     image: eeveeMug,
     tags: ['8% DISCOUNT', '20,00€']
   },
@@ -31,7 +31,7 @@ const products: Product[] = [
     id: 3,
     title: 'Pokémon Keychans',
     description:
-      "Add a touch of Pokémon charm to your keys with these delightful and colorful Pokémon keychains. Whether you're a seasoned Trainer or just starting your journey, these keychains are sure to bring you a smile.",
+      "Add a touch of Pokémon charm to your keys with these Pokémon keychains. Whether you're a seasoned Trainer or just starting your journey, these keychains are sure to bring you a smile.",
     image: keychans,
     tags: ['10% DISCOUNT', '10,00€']
   },
@@ -55,7 +55,7 @@ const products: Product[] = [
     id: 6,
     title: 'Pokémon Water Bottle',
     description:
-      'Stay hydrated on your adventures with this Pokémon water bottle. Featuring vibrant Pokémon designs, this durable bottle is perfect for quenching your thirst during training sessions or outdoor excursions.',
+      'Stay hydrated on your adventures with this Pokémon water bottle. Featuring vibrant Pokémon designs, this durable bottle is perfect for quenching your thirst during training sessions.',
     image: waterBottle,
     tags: ['5% DISCOUNT', '20,00€']
   }

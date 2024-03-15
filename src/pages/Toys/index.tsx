@@ -23,7 +23,7 @@ const products: Product[] = [
     id: 2,
     title: 'Charmander POP Funko',
     description:
-      'Charmander POP Funko: This adorable vinyl figure captures the essence of the beloved Fire-type Pokémon, Charmander. With its cute expression and iconic flame-tipped tail, this Funko POP is a must-have collectible for Pokémon fans of all ages.',
+      'Charmander POP Funko: This adorable vinyl figure captures the essence of the beloved Fire-type Pokémon, Charmander. With its cute expression and iconic flame-tipped tail, this Funko POP is a must-have collectible for Pokémon fans.',
     image: charmanderFunko,
     tags: ['25% DISCOUNT', '25,00€']
   },
@@ -31,7 +31,7 @@ const products: Product[] = [
     id: 3,
     title: 'Eevee Plush Toy',
     description:
-      'Cuddle up with this soft and huggable plush of Eevee, the beloved Evolution Pokémon. With its fluffy fur and charming expression, this Eevee plush is perfect for Pokémon fans of all ages, whether displayed on a shelf or used as a cuddly companion.',
+      'Cuddle up with this soft and huggable plush of Eevee, the beloved Evolution Pokémon. With its fluffy fur and charming expression, this Eevee plush is perfect for Pokémon fans of all ages to be your cuddly companion.',
     image: eeveePlush,
     tags: ['15% DISCOUNT', '30,00€']
   },
@@ -47,7 +47,7 @@ const products: Product[] = [
     id: 5,
     title: 'Squirtle Plush',
     description:
-      'Immerse yourself in the Pokémon universe with this irresistibly cute Squirtle plush toy. Ideal for playtime adventures or showcasing your Pokémon collection, it features an enchanting design and vivid colors that will delight any Pokémon enthusiast.',
+      'Immerse yourself in the Pokémon universe with this irresistibly cute Squirtle plush toy. Ideal for playtime adventures or showcasing your Pokémon collection, it features an enchanting design and vivid colors.',
     image: squitlePlush,
     tags: ['5% DISCOUNT', '18,00€']
   },

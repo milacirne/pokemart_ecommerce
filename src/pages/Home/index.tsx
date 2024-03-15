@@ -23,7 +23,7 @@ const categories: Category[] = [
     id: 2,
     title: 'Apparel & Accessories',
     description:
-      'Gear up with our exclusive collection of Pokémon-themed apparel and accessories. Show off your favorite Pokémon with our range of stylish clothing, hats, bags, and more!',
+      'Explore our exclusive collection of Pokémon-themed apparel and accessories, perfect for showcasing your favorite Pokémon. From stylish clothing to hats, gear up in Pokémon-inspired fashion and make a statement!',
     image: clothing,
     infos: 'UP TO 15% DISCOUNT',
     slug: 'acessories'
@@ -59,7 +59,7 @@ const categories: Category[] = [
     id: 6,
     title: 'Collectibles and Memorabilia',
     description:
-      'Explore our curated selection of exclusive limited edition Pokémon collectibles and memorabilia. From posters and mugs to keychains and more, find unique treasures to enhance your Pokémon collection and evoke fond memories of your Pokémon journey',
+      'Explore our curated selection of exclusive limited edition Pokémon collectibles and memorabilia. From posters and mugs to keychains and more, find unique treasures to enhance your Pokémon collection.',
     image: memorabilia,
     infos: 'UP TO 10% DISCOUNT',
     slug: 'memorabilia'
