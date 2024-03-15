@@ -16,7 +16,7 @@ export const Logo = styled.img`
 `
 
 export const Title = styled.h2`
-  font-size: 32px;
+  font-size: 24px;
   text-align: center;
   color: ${colors.white};
 `
